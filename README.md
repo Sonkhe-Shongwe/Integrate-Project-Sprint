@@ -10,8 +10,6 @@ Secure Vision is a conceptual insurance technology company aiming to enhance ins
 - To develop customer-centric insurance products tailored to the South African market.
 - To leverage data analytics for personalized and accessible insurance solutions.
 
-## Screen Shot
-
 ## South African Market Analysis
 Our analysis revealed several opportunities in South Africa:
 - Increasing financial literacy can lead to more informed insurance decisions.
